@@ -1,0 +1,26 @@
+[
+  {  
+    "title": "What is cross-platform mobile development?",
+    "desc": "Cross-platform development allows us to create mobile apps that work on both iOS and Android using a single codebase. This approach saves time and costs while maintaining native performance and user experience."
+  },
+  {
+    "title": "How long does it take to develop a mobile app?",
+    "desc": "Development time varies based on complexity. Simple apps take 2-3 months, while complex apps with advanced features can take 4-6 months. We provide detailed timelines during the planning phase."
+  },
+  {
+     "title": "Do you provide app store submission support?",
+    "desc": "Yes, we handle the complete app store submission process for both Google Play Store and Apple App Store, including optimization, compliance checks, and addressing any review feedback."
+  },
+  {  
+    "title": "What technologies do you use for development?",
+    "desc": "We specialize in React Native and Flutter for cross-platform development. We also use modern backend technologies like Node.js, Firebase, and cloud services for complete solutions."
+  },
+  {
+    "title": "Do you provide ongoing maintenance and support?",
+    "desc": "Absolutely! We offer comprehensive maintenance packages including bug fixes, performance optimization, security updates, and feature enhancements to keep your app running smoothly."
+  },
+  {
+     "title": "Can you integrate my existing systems with the mobile app?",
+    "desc": "Yes, we can integrate your mobile app with existing APIs, databases, CRM systems, payment gateways, and third-party services to ensure seamless data flow and functionality."
+  }  
+]

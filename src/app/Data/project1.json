@@ -1,0 +1,42 @@
+[
+  {
+    "img": "/assets/images/project/projectThumb2_1.jpg",   
+    "title": "E-Commerce Mobile App",
+    "desc": "React Native | iOS & Android"
+  },
+  {
+    "img": "/assets/images/project/projectThumb2_2.jpg",   
+    "title": "Food Delivery App",
+    "desc": "Flutter | Cross-Platform"
+  },
+  {
+    "img": "/assets/images/project/projectThumb2_3.jpg",   
+    "title": "Fitness Tracking App",
+    "desc": "React Native | Health & Fitness"
+  },
+  {
+    "img": "/assets/images/project/projectThumb2_4.jpg",   
+    "title": "Social Media Platform",
+    "desc": "Flutter | Social Networking"
+  },
+  {
+    "img": "/assets/images/project/projectThumb2_5.jpg",   
+    "title": "Banking Mobile App",
+    "desc": "React Native | FinTech"
+  },
+  {
+    "img": "/assets/images/project/projectThumb2_6.jpg",   
+    "title": "Travel Booking App",
+    "desc": "Flutter | Travel & Tourism"
+  },
+  {
+    "img": "/assets/images/project/projectThumb2_7.jpg",   
+    "title": "Learning Management App",
+    "desc": "React Native | Education"
+  },
+  {
+    "img": "/assets/images/project/projectThumb2_8.jpg",   
+    "title": "Healthcare App",
+    "desc": "Flutter | Medical & Health"
+  }
+]

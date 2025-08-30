@@ -1,0 +1,22 @@
+[
+  {
+    "number": "01",
+    "title": "Discovery & Planning",
+    "desc": "We analyze your business requirements, target audience, and technical needs to create a comprehensive development roadmap." 
+  },
+  {
+    "number": "02",
+    "title": "Design & Prototyping",
+    "desc": "Create intuitive UI/UX designs and interactive prototypes to visualize your app before development begins." 
+  },
+  {
+    "number": "03",
+    "title": "Development & Testing",
+    "desc": "Build your cross-platform mobile app using React Native or Flutter with rigorous testing on real devices." 
+  },
+  {
+    "number": "04",
+    "title": "Launch & Support",
+    "desc": "Deploy your app to both app stores and provide ongoing maintenance, updates, and technical support." 
+  }    
+]

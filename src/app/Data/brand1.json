@@ -1,0 +1,20 @@
+[
+  {
+    "img": "/assets/images/icon/react.png"
+  },
+  {
+    "img": "/assets/images/icon/nextjs.png" 
+  },
+  {
+    "img": "/assets/images/icon/nodejs.png"
+  },
+  {
+    "img": "/assets/images/icon/typescript.png"
+  },  
+  {
+     "img": "/assets/images/icon/mongodb.png"
+  },
+  {
+     "img": "/assets/images/icon/python.png"
+  }       
+]

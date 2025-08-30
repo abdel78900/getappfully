@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "/assets/images/icon/react.png",
+    "title": "React Native Development",
+    "desc": "Build high-performance native apps for iOS and Android using React Native. Single codebase, native performance, and faster development cycles."   
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_2.svg",
+    "title": "Flutter Development",
+    "desc": "Create beautiful, natively compiled applications using Flutter. Google's UI toolkit for building stunning cross-platform mobile apps."   
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_3.svg",
+    "title": "UI/UX Design",
+    "desc": "Design intuitive and engaging user interfaces optimized for mobile platforms with modern design principles and accessibility."  
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_1.svg",
+    "title": "Native App Features",
+    "desc": "Integrate native device features like camera, GPS, push notifications, biometric authentication, and offline capabilities."  
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_5.svg",
+    "title": "App Store Deployment",
+    "desc": "Complete app store submission process for both Google Play Store and Apple App Store with optimization and compliance."
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_6.svg",
+    "title": "Maintenance & Support",
+    "desc": "Ongoing app maintenance, updates, performance optimization, and technical support to keep your app running smoothly."   
+  }    
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "img": "/assets/images/icon/react.png",
+    "title": "Cross-Platform Development",
+    "desc": "Build once, deploy everywhere. Create native iOS and Android apps with a single codebase using React Native or Flutter for maximum efficiency.",  
+    "addclass": "service-box style1 wow fadeInUp"  
+  },
+  {
+    "img": "/assets/images/icon/serviceIcon1_2.svg",
+    "title": "Custom Solutions",
+    "desc": "Tailored mobile applications designed specifically for your business needs, from e-commerce to enterprise solutions and everything in between.",
+    "addclass": "service-box style1 wow fadeInUp"  
+  },
+  {
+    "img": "/assets/images/icon/serviceIcon1_3.svg",
+    "title": "Full-Stack Development",
+    "desc": "Complete mobile app development including backend APIs, database design, authentication, and cloud infrastructure setup.",
+    "addclass": "service-box style1 active wow fadeInUp"  
+  } 
+]

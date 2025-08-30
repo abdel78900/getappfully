@@ -1,0 +1,38 @@
+[
+  {
+    "img": "/assets/images/testimoial/testimonialProfileThumb1_1.jpg",
+    "subTitle": "CEO, TechStart Inc.",
+    "title": "Sarah Chen",
+    "desc": "GetAppFully delivered our e-commerce app ahead of schedule. The React Native solution works flawlessly on both platforms and our users love the smooth experience."  
+  },
+  {
+    "img": "/assets/images/testimoial/testimonialProfileThumb1_2.jpg",
+    "subTitle": "Founder, FoodieHub",
+    "title": "Marcus Rodriguez",
+    "desc": "Working with GetAppFully was a game-changer. Their Flutter expertise helped us create a beautiful food delivery app that handles high traffic seamlessly."
+  },
+  {
+    "img": "/assets/images/testimoial/testimonialProfileThumb1_3.jpg",
+    "subTitle": "CTO, HealthTech Solutions",
+    "title": "Dr. Emily Watson",
+    "desc": "The team's attention to detail and understanding of healthcare compliance requirements was exceptional. Our patient app is now used by thousands daily."
+  },
+  {
+    "img": "/assets/images/testimoial/testimonialProfileThumb1_1.jpg",
+    "subTitle": "Product Manager, FinanceApp",
+    "title": "James Mitchell",
+    "desc": "Security and performance were our top priorities. GetAppFully delivered a banking app that exceeds industry standards and user expectations." 
+  }, 
+  {
+    "img": "/assets/images/testimoial/testimonialProfileThumb1_2.jpg",
+    "subTitle": "Startup Founder",
+    "title": "Lisa Thompson",
+    "desc": "From concept to app store in just 3 months! Their agile approach and constant communication made the entire process smooth and transparent."
+  },
+  {
+    "img": "/assets/images/testimoial/testimonialProfileThumb1_3.jpg",
+    "subTitle": "Director of Innovation",
+    "title": "Michael Park",
+    "desc": "The cross-platform approach saved us 40% on development costs while maintaining native performance. Highly recommend GetAppFully!"
+  }  
+]
