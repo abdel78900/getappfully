@@ -75,7 +75,7 @@ const page = () => {
                                     <Link href="#" className="store-btn apple">
                                         <Image src="/assets/images/cta/ctaAppleStore1_1.png" alt="Download on App Store" width={180} height={60} />
                                     </Link>
-                                    <Link href="#" className="store-btn google">
+                                    <Link href="https://play.google.com/store/apps/details?id=com.getappfully.worldcupquizz" className="store-btn google">
                                         <Image src="/assets/images/cta/ctaplayStore1_1.png" alt="Get it on Google Play" width={180} height={60} />
                                     </Link>
                                 </div>
@@ -200,7 +200,7 @@ const page = () => {
                                 <Link href="#" className="store-btn-large apple">
                                     <Image src="/assets/images/cta/ctaAppleStore1_1.png" alt="Download on App Store" width={200} height={70} />
                                 </Link>
-                                <Link href="#" className="store-btn-large google">
+                                <Link href="https://play.google.com/store/apps/details?id=com.getappfully.worldcupquizz" className="store-btn-large google">
                                     <Image src="/assets/images/cta/ctaplayStore1_1.png" alt="Get it on Google Play" width={200} height={70} />
                                 </Link>
                             </div>

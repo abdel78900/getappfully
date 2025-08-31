@@ -45,7 +45,7 @@ const page = () => {
                                             <a href="#" className="store-btn">
                                                 <img src="/assets/images/cta/ctaAppleStore1_1.png" alt="App Store" style={{height: '50px'}} />
                                             </a>
-                                            <a href="#" className="store-btn" style={{marginLeft: '15px'}}>
+                                            <a href="https://play.google.com/store/apps/details?id=com.getappfully.worldcupquizz" className="store-btn" style={{marginLeft: '15px'}}>
                                                 <img src="/assets/images/cta/ctaplayStore1_1.png" alt="Google Play" style={{height: '50px'}} />
                                             </a>
                                         </div>
