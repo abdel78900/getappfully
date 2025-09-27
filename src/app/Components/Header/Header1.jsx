@@ -43,7 +43,7 @@ export default function Header1({ variant }) {
           <div className="cs_main_header_in">
             <div className="cs_main_header_left">
             <Link className="cs_site_branding" href="/">
-                <Image src="/assets/images/logoGAF.png" alt="GetAppFully Logo" width={90} height={0} style={{height: 'auto'}}   />
+                <Image src="/assets/images/logoGAF.png" alt="GetAppFully Logo" width={90} height={0} style={{height: 'auto', width: 'auto'}}   />
               </Link>
               </div>
               <div className="cs_main_header_center">

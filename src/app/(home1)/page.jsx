@@ -29,11 +29,11 @@ const page = () => {
                 cuscontent="Apps Delivered"
                 rating="4.9/5"
                 ratingcon="Client Satisfaction"
-                img="/assets/images/intro/introThumb1_1.png"
+                img="/assets/images/banner.webp"
             ></HeroBanner1>
             <Brand1></Brand1>   
             <About1
-                img1="/assets/images/about/aboutThumb1_1.png"
+                img1="/assets/images/expert.webp"
                 img2="/assets/images/about/aboutThumb1_2.png"
                 subtitle="About GetAppFully"
                 title="Expert Cross-Platform Mobile Development"

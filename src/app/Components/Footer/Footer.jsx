@@ -14,7 +14,7 @@ const Footer = () => {
                             <div className="single-footer-widget">
                                 <div className="widget-head">
                                     <Link href="/">
-                                    <Image src="/assets/images/logoGAF.png" alt="GetAppFully Logo" width={90} height={0} style={{height: 'auto'}}   />
+                                    <Image src="/assets/images/logoGAF.png" alt="GetAppFully Logo" width={90} height={0} style={{height: 'auto', width: 'auto'}}   />
                                     </Link>
                                 </div>
                                 <div className="footer-content">
@@ -76,6 +76,11 @@ const Footer = () => {
                                     <li>
                                         <Link href="/terms">
                                             Terms & Conditions
+                                        </Link>
+                                    </li>
+                                    <li>
+                                        <Link href="/data-deletion">
+                                            Data Deletion
                                         </Link>
                                     </li>
                                     <li>
